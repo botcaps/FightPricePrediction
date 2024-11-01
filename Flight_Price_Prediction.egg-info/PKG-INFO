@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Flight_Price_Prediction
+Version: 0.0.1
+Author: Abhishek
+Author-email: abhishek.7979883@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
